@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">The Weather App</string>
+    <string name="city_country" translatable="false">Rangpo, IN</string>
+    <string name="date_today">Wednesday, 21 August</string>
+    <string name="current_temperature">26</string>
+    <string name="weather_information">Partly Cloud</string>
+    <string name="temp_information">26, partly cloudy</string>
+    <string name="wind">WIND</string>
+    <string name="wind_speed">18 km/h</string>
+    <string name="humidity">HUMIDITY</string>
+    <string name="humidity_rate">73%</string>
+    <string name="day_of_week">Mon</string>
+    <string name="location_hints">Type city or postcode</string>
+    <string name="location_example">Example Delhi, IN</string>
+    <string name="add_new_location">Add a new location</string>
+    <string name="stored_location">Only 5 locations can be stored at once</string>
+    <string name="permission_notice">This permission is important but you can as well set your location on Location page</string>
+    <string name="go_to_location">Go to location Settings</string>
+</resources>

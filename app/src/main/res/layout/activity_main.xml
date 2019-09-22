@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorNavyBlue"
+    tools:context="com.pranshuDatta.androidweatherapp.MainActivity">
+
+    <ImageView
+        android:id="@+id/icon"
+        android:layout_width="158dp"
+        android:layout_height="140dp"
+        android:src="@drawable/small_weather_icon"
+        android:layout_centerInParent="true"/>
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="The Weather App"
+        android:textSize="40sp"
+        android:layout_below="@+id/icon"
+        android:textColor="@color/colorWhite"
+        android:layout_centerHorizontal="true"/>
+</RelativeLayout>
